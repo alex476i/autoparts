@@ -1,4 +1,4 @@
-<header class="catalog">
+<header class="catalog" style="">
 	<article>
 		<div class="header logo">
 			<span>Авто</span>
