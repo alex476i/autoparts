@@ -168,6 +168,9 @@ class Products extends CI_Controller {
 	    <div class="cart_footer_clear">Очистить корзину</div>
 	   </div>';
 	 }
+	 else {
+	 	return FALSE;
+	 }
 	}
 		
 		// if(isset($_COOKIE['cart']))
